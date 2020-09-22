@@ -1,0 +1,33 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.headline{
+    text-align: center;
+}
+
+.edu-lining-left{
+    float: left;
+}
+
+.edu-lining-right{
+    float: right;
+}
+
+.edu-lining-centre{
+    float: centre;
+}
+
+.all{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 5px;
+    padding:20px;
+    background-color: white;
+}
+
+body{
+    background-color: brown;
+}
+
